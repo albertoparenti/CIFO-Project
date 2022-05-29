@@ -10,12 +10,13 @@ Given a graph of nodes and edges, the route inspection problem involves finding 
 
 Assumptions:
 
-- We are dealing with an unidrected graph.
-- We start at node A and must end back at A.
+- An edge can be visited more than once. This means that our solutions may have different sizes.
+- We are dealing with an undirected graph.
+- Node A is the origin node. That is, we start at node A and must end back at A.
+- The edges of the graph may have different weights.
 
 ## Technicalities
 
-You can recreate the conda environment used to delevop the project using the file in `env/conda_environment.txt`.
+You can recreate the conda environment used to develop the project using the file in `env/conda_environment.txt`.
 
 Use `route_inspection_problem.ipynb` to run the solution to the problem.
-
