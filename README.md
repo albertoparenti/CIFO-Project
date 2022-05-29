@@ -1,6 +1,4 @@
-# CIFO - Final Project
-
-Final project for the *Computational Intelligence for Optimization* class at NOVA IMS, in S12022.
+#  Computational Intelligence for Optimization Project
 
 ## The problem
 
